@@ -87,7 +87,7 @@ body {
 #site-header {
 	position: fixed;
 	width: 100%;
-	 background-color: #20a0ff;
+	 background-color: rgb(51, 103, 214);
 	/*background-color: rgba(144, 146, 153, 0.94);*/
 	 /*background-color: rgba(32, 178, 170, 0.86);*/
 	padding: 0 30px;
