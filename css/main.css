@@ -87,9 +87,9 @@ body {
 #site-header {
 	position: fixed;
 	width: 100%;
-	/* background-color: #35405f; */
-	background-color: rgba(144, 146, 153, 0.94);
-	/* background-color: rgba(32, 178, 170, 0.86); */
+	 background-color: #20a0ff;
+	/*background-color: rgba(144, 146, 153, 0.94);*/
+	 /*background-color: rgba(32, 178, 170, 0.86);*/
 	padding: 0 30px;
 	z-index: 100;
 }
@@ -240,7 +240,7 @@ body {
 	box-shadow: 0 3px 1px 0 rgba(20, 20, 26, 0.55);
 	border-radius: 0;
 	font-size: 18px;
-	background-color: rgba(247, 255, 248, 1);
+	background-color: rgba(233, 155, 110, 1);
 	padding: 16px 48px;
 }
 
